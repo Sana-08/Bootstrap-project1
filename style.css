@@ -1,0 +1,9 @@
+.carousel-inner img {
+    height: 400px; /* Set your desired height here */
+    object-fit: cover; /* Ensure the image covers the container without distortion */
+}
+
+.row img{
+    height: 300px;
+    width: 600px;
+}
